@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "This is a code example"
+date:   2016-07-30 12:23:17 +0000
+categories: hacking
+---
+
+
 ## This is a code example
 
 This is a [link](http://miketineo.com)
