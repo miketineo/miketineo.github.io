@@ -18,3 +18,5 @@ github_username:  miketineo
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-slate
